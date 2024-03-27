@@ -1,0 +1,2 @@
+# AI-powered-Personalized-Meditation-Guide
+開発AI駆動の瞑想ガイドアプリは、ユーザーのストレスレベルと気分に基づいてパーソナライズされた瞑想セッションを提供します。
